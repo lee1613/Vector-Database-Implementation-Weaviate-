@@ -1,1 +1,0 @@
-# Vector-Database-Implementation-Weaviate-
